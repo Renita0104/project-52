@@ -1,0 +1,89 @@
+
+            .dog{
+                color:blueviolet;
+                background-color: pink;  
+                font-family: cursive;
+            }
+            h3{
+                display: flex;
+                justify-content:flex-end;
+                font-family: cursive;
+                color: yellow;
+            }
+            .dog
+            {
+            border:solid
+            }
+            .cat
+            {
+                background-color: aqua;
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: black;
+            
+            
+            }
+            .cut
+            {
+                background-color: red;
+            display:flex;
+            justify-content: space-evenly;
+             font-family: cursive;
+             color: palegoldenrod;
+             
+            }
+            .ant
+            {
+                background-color: blue;
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: red;
+            }
+            .cat1
+            {
+                background-color:purple;
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: beige;
+            }
+            .dog2
+            {
+                background-color:green;
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: yellow;
+            }
+            .dog3
+            {
+                background-color:rgb(0, 45, 128);
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: white;
+            }
+            .dog4
+            {
+                background-color:rgb(128, 0, 96);
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: silver;
+            }
+            .puppy
+            {
+                background-color:rgb(0, 119, 128);
+            display:flex;
+            justify-content: space-evenly;
+            font-family: cursive;
+            color: gray;
+            }
+            button{
+            background: gray;
+            }
+            button{
+                background: red;
+            }
